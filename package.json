@@ -21,6 +21,7 @@
     "modern-normalize": "^1.1.0",
     "simplelightbox": "^2.12.1"
   },
+  "module": "dist/module.js",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
     "parcel": "^2.6.0",
